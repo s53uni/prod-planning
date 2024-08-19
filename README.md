@@ -1,6 +1,6 @@
 <a name="top"></a>
   
-# SaaS 기반 AI 공정 최적화 시스템의 생산 계획 최적화 모델
+# 수요 예측을 통한 생산 계획 최적화 모델
 🏆 2023 BDIA Dev Contest 미래창업가상 수상 🏆
 - 구분: [팀 프로젝트](https://github.com/s53uni/isix-project) 내 개인별 분석 파일
 - 기간: 2023년 9월 7일 ~ 2023년 11월 10일
